@@ -12,3 +12,4 @@ Clon de juego Frogger (Konami 1981), con lógica básica:
 * Música de introducción y al pasar de nivel fue tomada de Frogger para GB
 * Sonido de salto y de caída al agua fueron tomados de Frogger para GB
 * Sonido de golpe con carro fue tomado de Super Mario Bros. de NES
+* Todos los sprites creados por RGXDev con Pixel Studio
