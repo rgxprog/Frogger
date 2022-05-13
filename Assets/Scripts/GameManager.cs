@@ -86,7 +86,9 @@ public class GameManager : MonoBehaviour
     public void StartGame()
     {
         ResetGame();
-        StartCoroutine(PlayIntroSound());
+        //StartCoroutine(PlayIntroSound());
+        IntroSound.Play();
+        gameState = GameState.InGame;
         levelCanvas.GetComponent<LevelTextLogic>().ShowLevel(level);
     }
 
